@@ -9,6 +9,7 @@ public class Ex09 {
                 System.out.println(i + j); 
                 
             }
+            System.out.println();
 		}
 	}
 

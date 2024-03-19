@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Ex14 {
 	 public static void main(String[] args) {
-		 //못 만들어서 GPT 활용함
+		 
 	        Scanner scanner = new Scanner(System.in);
 
 	        System.out.print("숫자를 입력하세요: ");
