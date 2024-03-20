@@ -8,7 +8,7 @@ public class Ex22 {
 		
 		Scanner scanner = new Scanner(System.in);
 
-        System.out.println("숫자 3개를 입력하세요:");
+        System.out.println("숫자 3개를 입력하세요");
 
         System.out.print("숫자1: ");
         int num1 = scanner.nextInt();
